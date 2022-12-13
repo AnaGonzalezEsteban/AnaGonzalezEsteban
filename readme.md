@@ -1,12 +1,14 @@
-# Welcome to my Github profile! My name is Ana :)
+# Welcome to my Github profile! 
 
-I'm a junior Data Scientist from Madrid(Spain).
+My name is Ana :blush: 
 
-I enjoy learning and I'm always trying to improve my skills. 
+I'm a junior Data Scientist from Madrid, Spain.	:bar_chart:
 
-Feel free to comment or ask any questions, it's a pleasure to share knowledge with others!
+I enjoy learning and I'm always trying to improve my skills.:nerd_face:
 
-## Puedes encontrarme en:
+Feel free to comment or ask any questions, it's a pleasure to share knowledge with others!:wink:
 
-* **Ana González Esteban** - [Linkedin/anagonzalezesteban](https://www.linkedin.com/in/anagonzalezesteban/)
+## How to find me!
+
+* **Linkedin** - [Linkedin/anagonzalezesteban](https://www.linkedin.com/in/anagonzalezesteban/)
 
